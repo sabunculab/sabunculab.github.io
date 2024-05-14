@@ -5,9 +5,9 @@ Cornell University and Cornell Tech \
 Vice Chair of AI and Engineering Research \
 Department of Radiology, Weill Cornell Medicine \
 \
-<a href="#page-top"><img src="static/assets/img/logo_cornell.png" style="width: 8rem;"></a>
-<a href="#page-top"><img src="static/assets/img/logo_tech.png" style="width: 3rem;"></a>
-<a href="#page-top"><img src="static/assets/img/logo_wcm.png" style="width: 8rem;"></a>
+<a href="#page-top"><img src="../static/assets/img/logo_cornell.png" style="width: 8rem;"></a>
+<a href="#page-top"><img src="../static/assets/img/logo_tech.png" style="width: 3rem;"></a>
+<a href="#page-top"><img src="../static/assets/img/logo_wcm.png" style="width: 8rem;"></a>
 
 _Address_: 2 W Loop Rd, New York, NY \
 _Email_: msabuncu at cornell dot edu
