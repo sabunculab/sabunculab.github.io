@@ -3,7 +3,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_mert_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/mert_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Mert R. Sabuncu</strong></p>
         <p>Professor</p>
@@ -24,7 +24,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_ben_lee_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/ben_lee_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Benjamin C. Lee</strong></p>
         <p>Senior Research Associate, Department of Radiology at Weill Cornell Medicine</p>
@@ -39,7 +39,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_heejong_kim_photo.jpg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/heejong_kim_photo.jpg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Heejong Kim</strong></p>
         <p>Postdoctoral Researcher, Department of Radiology at Weill Cornell Medicine</p>
@@ -54,7 +54,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_mina_cm_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/mina_cm_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Mina Chookhachizadeh Moghadam</strong></p>
         <p>Postdoctoral Researcher, Department of Radiology at Weill Cornell Medicine</p>
@@ -71,7 +71,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_fengbei_liu_photo.png" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/fengbei_liu_photo.png" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Fengbei Liu</strong></p>
         <p>Postdoctoral Researcher, Cornell Tech</p>
@@ -86,7 +86,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_leo_milecki_photo.jpg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/leo_milecki_photo.jpg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Leo Milecki</strong></p>
         <p>Postdoctoral Researcher, Department of Radiology at Weill Cornell Medicine</p>
@@ -108,7 +108,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_alan_wang_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/alan_wang_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Alan Wang</strong></p>
         <p>ECE PhD student, Cornell University and Cornell Tech</p>
@@ -126,7 +126,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_cagla_bahadir_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/cagla_bahadir_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Cagla Deniz Bahadir</strong></p>
         <p>BME PhD student, Cornell University and Cornell Tech</p>
@@ -141,7 +141,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_batuhan_karaman_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/batuhan_karaman_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Batuhan Karaman</strong></p>
         <p>ECE PhD student, Cornell University and Cornell Tech</p>
@@ -159,7 +159,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_minh_nguyen_photo.JPG" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/minh_nguyen_photo.JPG" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Minh Nguyen</strong></p>
         <p>ECE PhD student, Cornell University and Cornell Tech</p>
@@ -175,7 +175,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_xinzi_he_photo.jpg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/xinzi_he_photo.jpg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Xinzi He</strong></p>
         <p>BME PhD student, Cornell University and Cornell Tech</p>
@@ -191,7 +191,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_xuemin_zhu_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/xuemin_zhu_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Xuemin Zhu</strong></p>
         <p>ECE PhD student, Cornell University</p>
@@ -205,7 +205,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_rachit_saluja_photo.png" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/rachit_saluja_photo.png" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Rachit Saluja</strong></p>
         <p>ECE PhD student, Cornell University and Cornell Tech</p>
@@ -222,7 +222,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_nusrat_nizam_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/nusrat_nizam_photo.jpeg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Nusrat Binta Nizam</strong></p>
         <p>BME PhD student, Cornell University and Cornell Tech</p>
@@ -237,7 +237,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_haomiao_chen_photo.JPG" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/haomiao_chen_photo.JPG" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Haomiao Chen</strong></p>
         <p>ECE PhD student, Cornell University and Cornell Tech</p>
@@ -252,7 +252,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="static/assets/img/_jorge_gomez_photo.jpg" alt="Description" style="width: 15%; margin-right: 20px;">
+    <img src="static/assets/img/jorge_gomez_photo.jpg" alt="Description" style="width: 15%; margin-right: 20px;">
     <div>
         <p><strong>Jorge Tapias Gomez</strong></p>
         <p>CS PhD student, Cornell University and Cornell Tech</p>
